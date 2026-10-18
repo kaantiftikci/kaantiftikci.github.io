@@ -7,7 +7,8 @@
           { "/": "/kikir/oyun/*", "comment": "Game pages" },
           { "/": "/kikir/oda/*", "comment": "Room invites" },
           { "/": "/kikir/paket/*", "comment": "Shared question packs" },
-          { "/": "/kikir/topluluk/*", "comment": "Community packs" }
+          { "/": "/kikir/topluluk/*", "comment": "Community packs" },
+          { "/": "/kikir/davet/*", "comment": "Friend invites" }
         ]
       }
     ]
