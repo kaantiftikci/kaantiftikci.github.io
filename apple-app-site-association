@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YA97VV576A.com.kaantiftikci.oyunlar"],
+        "components": [
+          { "/": "/kikir/oyun/*", "comment": "Game pages" },
+          { "/": "/kikir/oda/*", "comment": "Room invites" },
+          { "/": "/kikir/paket/*", "comment": "Shared question packs" },
+          { "/": "/kikir/topluluk/*", "comment": "Community packs" }
+        ]
+      }
+    ]
+  }
+}
